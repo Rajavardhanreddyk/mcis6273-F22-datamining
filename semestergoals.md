@@ -5,4 +5,4 @@
 
 * It helps companies gather **reliable information**.
 
-* It's an efficient, *cost-effective solution* compared to other data applications.
+* It's an efficient, *cost-effective solution* compared to other data applications. It is important in the field of **Data science**
